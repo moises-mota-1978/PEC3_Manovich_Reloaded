@@ -84,8 +84,10 @@ The Silent History, [Fotografía] by The Silent History, by Horowitz, E. Derby, 
 
 ## Conclusiones personales
 
-<br /><br /><br />
+Al igual que **“las Gafas de Manovich”**, que nos permiten ver el mundo de manera diferente, el libro electrónico y la literatura digital nos brindan nuevas formas de interactuar con el texto y experimentar la narrativa, siendo ejemplos de hibridación donde se fusionan los aspectos tradicionales de la lectura con las posibilidades digitales.
 
+- El libro electrónico, como versión digitalizada del libro impreso, amplía las posibilidades de acceso a la lectura y ofrece características interactivas. 
+- Por otro lado, la literatura digital va más allá de la simple transposición del libro impreso al formato digital, combinando elementos textuales, visuales, sonoros e interactivos para crear una experiencia literaria única, lo cual rompe con la linealidad tradicional de la lectura y nos sumerge en un entorno hipermedia donde el texto se entrelaza con otros medios.
 
 ### BIBLIOGRAFIA
 
@@ -116,9 +118,16 @@ https://normas-apa.org/referencias/citar-imagen-o-fotografia/
 
 ---
 
-# Arquitectura paramétrica
+# Arquitectura digital paramétrica
 
-<br /><br /><br />
+La arquitectura digital es una disciplina que combina la arquitectura tradicional con la tecnología digital y la informática, y se refiere al diseño, la visualización y la construcción de estructuras arquitectónicas utilizando herramientas y técnicas digitales.
+
+Como ejemplos de hibridación en la arquitectura digital tenemos entre otros el *"Diseño Paramétrico digital"*, que puede ser visto como un ejemplo de hibridación al combinar los principios de diseño arquitectónico con herramientas y conceptos digitales como:
+- Integración de algoritmos y programación 
+- Diseño generativo
+- Análisis estructural y simulación.
+- Interacción y retroalimentación en tiempo.
+- Arquitectura biomimética.
 
 # Rhinoceros y Grasshopper
 
@@ -170,7 +179,8 @@ Om. Egvo (22 de octubre de 2018) grasshopper architecture tutorial Beijing Natio
 
 ## Conclusiones personales
 
-<br /><br /><br />
+Como conclusión final, podemos determinar que **"Rhinoceros y Grasshopper"** son ejemplos de hibridación en el diseño, donde se combinan técnicas tradicionales y digitales para crear objetos tridimensionales de manera eficiente y creativa. 
+Estos programas nos permiten ampliar nuestras capacidades de diseño, ofreciendo herramientas avanzadas y flexibilidad para materializar nuestras ideas. Al adoptar las posibilidades digitales, Rhinoceros y Grasshopper nos invitan a ver el diseño de manera diferente, desafiando los límites tradicionales y abriendo nuevas perspectivas en el campo del diseño asistido por computadora.
 
 ### BIBLIOGRAFÍA
 MANOVICH, Lev. El software toma el mando (Capítulo 4 y 5). Nueva York. ISBN: 978-84-9064-0022-7. Editorial: UOC. 2013. Disponible en:
