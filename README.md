@@ -118,6 +118,7 @@ https://normas-apa.org/referencias/citar-youtube/
 https://normas-apa.org/referencias/citar-imagen-o-fotografia/
 
 ---
+---
 
 # Arquitectura digital paramétrica
 
@@ -133,24 +134,30 @@ Como ejemplos de hibridación en la arquitectura digital tenemos entre otros el 
 # Rhinoceros y Grasshopper
 
 ***”Rhinoceros y Grasshopper”*** son dos softwares ampliamente utilizados en el campo del diseño paramétrico en arquitectura. La combinación de ambos ejemplifica la hibridación en el diseño paramétrico.
-Según la metáfora de ***"las gafas de Manovich"***, la hibridación ocurre cuando diferentes paradigmas o lentes conceptuales se combinan para crear algo nuevo y único. En este caso, podemos aplicar la metáfora combinando Grasshopper y Rhino en el diseño paramétrico en la arquitectura según el siguiente contexto:
-1. Rhino es un programa de modelado 3D, podría ser una **“Gafa”** que proporciona herramientas versátiles para la creación de formas y geometrías complejas en arquitectura.
+Según la metáfora de ***"las gafas de Manovich"***, la hibridación ocurre cuando diferentes paradigmas o lentes conceptuales se combinan para crear algo nuevo y único. 
+
+En este caso, podemos aplicar la metáfora combinando Grasshopper y Rhino en el diseño paramétrico en la arquitectura según el siguiente contexto:
+1. Rhino es un programa de modelado 3D, que podría ser una **“Gafa”** que proporciona herramientas versátiles para la creación de formas y geometrías complejas en arquitectura.
 
 ![Logo Rhinoceros](https://github.com/moises-mota-1978/PEC3_Manovich_Reloaded/blob/main/Logo_Rhino.jpg)
 
 Matteo Carcassi, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons(https://upload.wikimedia.org/wikipedia/commons/e/e2/Logo_Rhino.jpg)
 
 
-3. Por otro lado, Grasshopper es un complemento (plugin) de Rhino, podría ser otra **“Gafa”** que se utiliza para la creación de algoritmos y el diseño paramétrico a través de su interfaz gráfica basada en nodos, que nos permite conectar componentes y establecer relaciones entre ellos para crear diseños generativos y explorar múltiples opciones de forma y configuración.
+3. Por otro lado, Grasshopper es un complemento (plugin) de Rhino, que podría ser otra **“Gafa”** que se utiliza para la creación de algoritmos y el diseño paramétrico a través de su interfaz gráfica basada en nodos, que nos permite conectar componentes y establecer relaciones entre ellos para crear diseños generativos y explorar múltiples opciones de forma y configuración.
 
 ![Logo Rhinoceros](https://github.com/moises-mota-1978/PEC3_Manovich_Reloaded/blob/main/Exemplo_de_defini%C3%A7%C3%A3o_de_Grasshopper_3D.png)
 
 Orciuoli, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons (https://upload.wikimedia.org/wikipedia/commons/e/e0/Exemplo_de_defini%C3%A7%C3%A3o_de_Grasshopper_3D.png)
 
+<br />
 
-La hibridación se produce al combinar estas dos ***"Gafas"***, Grasshopper junto con Rhino.
-Con Grasshopper, los diseñadores pueden crear algoritmos paramétricos que generan geometrías complejas que se integran con las herramientas de modelado 3D de Rhino para visualizar y modificar en tiempo real los resultados del diseño paramétrico.
-Esta combinación de herramientas permite a los diseñadores ver y experimentar con las formas arquitectónicas desde dos perspectivas distintas pero complementarias. Rhino proporciona una visión visual y tangible de los objetos, mientras que Grasshopper ofrece una visión lógica y algorítmica. Además, esta combinación también permite integrar análisis estructurales, simulaciones de rendimiento energético o flujos de trabajo de fabricación digital dentro del proceso de diseño. 
+La hibridación se produce al combinar estas dos ***"Gafas"***, Grasshopper junto con Rhino, proporcionando una combinación de herramientas que permite a los diseñadores ver y experimentar con las formas arquitectónicas desde dos perspectivas distintas pero complementarias.
+
+- Rhino proporciona una visión visual y tangible de los objetos.
+- Grasshopper ofrece una visión lógica y algorítmica donde los diseñadores pueden crear algoritmos paramétricos que generan geometrías complejas que se integran con las herramientas de modelado 3D de Rhino para visualizar y modificar en tiempo real los resultados del diseño paramétrico.
+
+Además, esta combinación también permite integrar análisis estructurales, simulaciones de rendimiento energético o flujos de trabajo de fabricación digital dentro del proceso de diseño. 
 
 ## Ejemplo de arquitectura paramétrica hibridada
 
@@ -162,15 +169,17 @@ Tenemos un claro ejemplo de proyecto de arquitectura paramétrica que ha sido hi
 
 Beijing national stadium [Fotografía], por Peter23, 2011, Wikipedia.org (https://upload.wikimedia.org/wikipedia/commons/1/1e/Beijing_national_stadium.jpg). CC BY-SA 3.0
 
+<br />
+
 Este proyecto utilizó Grasshopper para desarrollar algoritmos paramétricos que generaron la estructura tridimensional compleja del estadio. 
 
 El Estadio Nacional de Pekín es un ejemplo destacado de cómo la hibridación ha influido en la arquitectura contemporánea, en la forma en que el estadio se concibe y se experimenta.
 
-En términos de diseño arquitectónico, el Nido de Pájaro combina elementos tradicionales y modernos de una manera única. Su estructura se basa en principios paramétricos y utiliza tecnología avanzada para crear una apariencia distintiva. La forma exterior del estadio se asemeja a un nido entrelazado, con una red de acero que se entrelaza y se entrecruza, creando una apariencia compleja y llamativa. Este diseño híbrido fusiona la estética tradicional china, que considera el nido de pájaro como un símbolo auspicioso, con técnicas y materiales contemporáneos.
+En términos de diseño arquitectónico, el **Nido de Pájaro** combina elementos tradicionales y modernos de una manera única. Su estructura se basa en principios paramétricos y utiliza tecnología avanzada para crear una apariencia distintiva, donde la forma exterior del estadio se asemeja a un nido entrelazado, con una red de acero que se entrelaza y se entrecruza que crea una apariencia compleja y llamativa. Este diseño híbrido fusiona la estética tradicional china, que considera el nido de pájaro como un símbolo auspicioso, con técnicas y materiales contemporáneos.
 
-Además, la hibridación se refleja en la estructura misma del estadio. Combina una red exterior de acero proporciona estabilidad y soporte, mientras que el concreto se utiliza para las áreas interiores y los niveles inferiores. 
+Además, la hibridación se refleja en la estructura misma del estadio que combina una red exterior de acero proporciona estabilidad y soporte, mientras que el concreto se utiliza para las áreas interiores y los niveles inferiores. 
 
-La hibridación también se manifiesta en la funcionalidad del estadio, donde, además de ser un lugar para eventos deportivos, el Nido de Pájaro está diseñado para ser un espacio multifuncional que puede adaptarse a diferentes actividades y configuraciones. Su interior se puede reconfigurar fácilmente para acomodar conciertos, exposiciones y otros eventos, además de que se ha convertido en un lugar icónico que atrae a turistas y visitantes de todo el mundo. Esta versatilidad refleja la capacidad de adaptación y flexibilidad que se encuentra en la hibridación de diseños.
+**La hibridación** también se manifiesta en la funcionalidad del estadio, donde, además de ser un lugar para eventos deportivos, el Nido de Pájaro está diseñado para ser un espacio multifuncional que puede adaptarse a diferentes actividades y configuraciones. Su interior se puede reconfigurar fácilmente para acomodar conciertos, exposiciones y otros eventos, además de que se ha convertido en un lugar icónico que atrae a turistas y visitantes de todo el mundo. Esta versatilidad refleja la capacidad de adaptación y flexibilidad que se encuentra en la hibridación de diseños.
 
 ### Simulación de construcción del estadio "El Nido" mediante Grasshopper
 
