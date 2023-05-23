@@ -41,7 +41,7 @@ También podemos definir ***"la hibridación aplicando la metáfora de las gafas
 
 # El libro electrónico
 
-![Ereader](https://github.com/moises-mota-1978/PEC3_Manovich_Reloaded/blob/main/Ereader.jpg)
+![E-reader](https://github.com/moises-mota-1978/PEC3_Manovich_Reloaded/blob/main/Ereader.jpg)
 
 Ereader., [Fotografía], 2023, publicada por Uploaded own work with UploadWizard <a href="https://commons.wikimedia.org/wiki/File:Ereader.jpg">117PXL</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons 
 
