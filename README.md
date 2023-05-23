@@ -12,7 +12,7 @@ Fecha 22/05/2023
 En el artículo expuesto se expone la hibridación desde la perspectiva del teórico Lev Manovich, para lo que se
 han planteado los siguientes dos ejemplos de hibridación:
 
-1. **[El libro electrónico](#Re-Descubriendo-la-hibridación:El-libro-electrónico)**, como ejemplo de elemento de hibridación.
+1. **[El libro electrónico](#Re-Descubriendo-la-hibridación:-El-libro-electrónico)**, como ejemplo de elemento de hibridación.
 2. **[Rhinoceros y Grasshopper](#Rhinoceros-y-Grasshopper)**, como ejemplo de software de hibridación.
 
 ---
