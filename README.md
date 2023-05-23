@@ -23,12 +23,14 @@ han planteado los siguientes dos ejemplos de hibridación:
 
 Según el teórico de los nuevos medios Lev Manovich, hay que diferenciar entre ***"hibridez y multimedia"***.
 El teórico manifiesta que *“es posible concebir la multimedia como un caso particular de medios híbridos. 
-Sin embargo, prefiero verla realmente como un solapamiento de dos fenómenos distintos*.” (Manovich, 2013, p. 157). No obstante, el autor quiere diferenciar hibridez y multimedia, por lo que utiliza el término **"hibridación"** en el contexto de la cultura y los nuevos medios. 
+Sin embargo, prefiero verla realmente como un solapamiento de dos fenómenos distintos*.” (Manovich, 2013, p. 157). 
+No obstante, el autor quiere diferenciar hibridez y multimedia, por lo que utiliza el término **"hibridación"** en el contexto de la cultura y los nuevos medios. 
 
-Para Manovich, la hibridación se refiere a la mezcla y combinación de diferentes formas, estilos, elementos y técnicas de los medios digitales implicando la fusión de diversas fuentes para crear algo nuevo y único, tomando prestados elementos y características de los medios anteriores y combinándolos con nuevas formas y capacidades proporcionadas por la tecnología digital. Estos elementos pueden incluir formas narrativas, estilos visuales, géneros, modos de interacción y más.
-Podríamos definir la hibridación planteada por Manovich, como la combinación de elementos y técnicas de diferentes medios en un entorno digital, creando nuevas formas y experiencias mediáticas.
+Para Manovich, *"la hibridación"* se refiere a la mezcla y combinación de diferentes formas, estilos, elementos y técnicas de los medios digitales implicando la fusión de diversas fuentes para crear algo nuevo y único, tomando prestados elementos y características de los medios anteriores y combinándolos con nuevas formas y capacidades proporcionadas por la tecnología digital. 
 
-También podemos definir la hibridación, si aplicamos la metáfora de ***"las gafas de Manovich"*** en la que se refiere a la perspectiva y enfoque analítico distintivo en relación con los medios de comunicación y la cultura digital, como el resultado de la interacción y la fusión de diferentes medios y prácticas mediáticas implicando:
+Estos elementos pueden incluir formas narrativas, estilos visuales, géneros, modos de interacción y más, que nos permiten definir **la hibridación** planteada por Manovich, como la combinación de elementos y técnicas de diferentes medios en un entorno digital, creando nuevas formas y experiencias mediáticas.
+
+También podemos definir ***"la hibridación aplicando la metáfora de las gafas de Manovich"*** referida a la perspectiva y enfoque analítico en relación con los medios de comunicación y la cultura digital, como el resultado de la interacción y la fusión de diferentes medios y prácticas mediáticas implicando:
 
 1. Convergencia de medios tradicionales con los nuevos medios.
 2. Intercambio de características y lenguajes de diferentes medios. 
@@ -37,7 +39,7 @@ También podemos definir la hibridación, si aplicamos la metáfora de ***"las g
 
 ---
 
-# El libro electrónico
+# Re-Descubriendo la hibridación: El libro electrónico
 
 ![Ereader](https://github.com/moises-mota-1978/PEC3_Manovich_Reloaded/blob/main/Ereader.jpg)
 
